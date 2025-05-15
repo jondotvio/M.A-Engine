@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Transcripts and corpora are runtime artifacts
+data/transcripts/*
+!data/transcripts/.gitkeep
+data/corpora/*
+!data/corpora/.gitkeep
+!data/corpora/example_*
+
+notebooks/.ipynb_checkpoints/
