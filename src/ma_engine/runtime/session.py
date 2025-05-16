@@ -101,3 +101,4 @@ class Session:
             if len(set(recent)) == 1:
                 return True
         return False
+
