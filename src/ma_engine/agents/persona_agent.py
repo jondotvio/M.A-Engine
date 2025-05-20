@@ -76,3 +76,4 @@ class PersonaAgent:
     def __repr__(self) -> str:
         return f"PersonaAgent(label={self.config.label}, backbone={self.config.backbone})"
 
+
