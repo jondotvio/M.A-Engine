@@ -12,3 +12,4 @@ def configure(level: str = "INFO") -> None:
         format=fmt,
         stream=sys.stdout,
     )
+
