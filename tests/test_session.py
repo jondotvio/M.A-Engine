@@ -76,3 +76,4 @@ async def test_session_rejects_same_label_agents():
     with pytest.raises(ValueError):
         Session(m1, m2, seed_prompt="test")
 
+
