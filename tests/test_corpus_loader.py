@@ -57,3 +57,4 @@ def test_corpus_missing_manifest_raises():
         (root / "a.txt").write_text("x\n")
         with pytest.raises(FileNotFoundError):
             CorpusLoader(root)
+
