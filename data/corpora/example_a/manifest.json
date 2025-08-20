@@ -1,0 +1,8 @@
+{
+  "corpus_id": "example_a",
+  "persona_label": "A",
+  "persona_name": "example persona a",
+  "sources": ["quotes.txt"],
+  "line_count": 12,
+  "notes": "Synthetic example for tests. Not a real persona."
+}
