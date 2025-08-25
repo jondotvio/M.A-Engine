@@ -44,3 +44,4 @@
 ## [0.1.0] - 2025-07-08
 - initial: PersonaAgent + Session, single backbone (openai)
 
+
