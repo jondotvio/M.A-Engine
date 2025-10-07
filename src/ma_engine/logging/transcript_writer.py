@@ -69,3 +69,4 @@ class TranscriptWriter:
         header = f"TRANSCRIPT {session.id} / sandbox.local\n{ts}\n\n"
         body = "\n".join(f"{t.speaker}: {t.text}" for t in session.turns)
         return f"{header}{body}\n\nend of segment.\n"
+
