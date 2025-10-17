@@ -93,3 +93,4 @@ class Scheduler:
             await asyncio.wait_for(self._stopped.wait(), timeout=seconds)
         except TimeoutError:
             return
+
