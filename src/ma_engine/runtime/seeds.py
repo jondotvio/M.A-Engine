@@ -35,3 +35,4 @@ def load_seeds(path: str | None = None) -> list[str]:
         return list(DEFAULT_SEEDS)
     with open(path) as fh:
         return [line.strip() for line in fh if line.strip() and not line.startswith("#")]
+
