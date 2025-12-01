@@ -46,3 +46,4 @@ The seed pool rotates randomly per session. Eventually we want a more thoughtful
 - **Persona-conditioned backbones.** Fine-tuning instead of prompting. Out of scope for the engine.
 - **Multi-language sessions.** Possible but corpus collection becomes a much bigger project.
 - **A judge agent that scores who "won" the session.** Too easy to bias. Skipped.
+
