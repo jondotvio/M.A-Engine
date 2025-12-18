@@ -47,3 +47,4 @@ The seed pool rotates randomly per session. Eventually we want a more thoughtful
 - **Multi-language sessions.** Possible but corpus collection becomes a much bigger project.
 - **A judge agent that scores who "won" the session.** Too easy to bias. Skipped.
 
+
