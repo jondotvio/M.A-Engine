@@ -25,3 +25,4 @@ jobs:
         run: ruff check src tests
       - name: tests
         run: pytest -v
+
