@@ -69,3 +69,4 @@ def test_transcript_json_has_session_metadata():
         assert data["turns"][0]["speaker"] == "M"
 
 
+
