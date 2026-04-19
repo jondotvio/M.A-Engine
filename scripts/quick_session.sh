@@ -8,3 +8,4 @@ ma-engine run-once \
   --m-spec data/personas/m.json \
   --a-spec data/personas/a.json \
   --turns "$TURNS"
+
